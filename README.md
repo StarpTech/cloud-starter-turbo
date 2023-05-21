@@ -5,7 +5,7 @@
 This starter combines [WunderGraph](https://wundergraph.com/) Cloud with [Turborepo](https://github.com/vercel/turbo) to create an optimized monorepo experience for your WunderGraph application.
 
 ### Getting started locally
-ffffdqwdqwdfffdwedewdewdew
+ffffdqwdqwdfffdwedewdewdewewdewdew
 ```shell
 npm install
 npm run build
