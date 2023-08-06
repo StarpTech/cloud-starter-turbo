@@ -1,3 +1,5 @@
 packages/ui
 apps/docs
 apps/web
+
+!**/package.json
